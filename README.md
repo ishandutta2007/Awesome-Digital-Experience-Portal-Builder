@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Digital-Experience-Portal-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Experience-Portal-Builder?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Digital-Experience-Portal-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Experience-Portal-Builder?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Experience-Portal-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Experience-Portal-Builder?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Experience-Portal-Builder/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Experience-Portal-Builder?color=blue" alt="Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Digital-Experience-Portal-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -43,7 +43,7 @@
 
 Welcome to the **Awesome Digital Experience & Portal Builder** directory! In modern digital enterprise operations, **Digital Experience Platforms (DXP)**, **customer portals**, **partner extranets**, and **headless experience layers** form the operational backbone of customer engagement, retention, and self-service.
 
-Whether you need a full enterprise-grade turnkey cloud platform (Salesforce Experience Cloud, Adobe Experience Manager, Sitecore) or an autonomous, self-hosted, vendor-neutral open-source stack (Strapi, Payload, Directus, Grav, Liferay), this list catalogs the leading technologies with verified pricing, free tier limits, company sizes, and active GitHub stars.
+Whether you need a full enterprise-grade turnkey cloud platform (Salesforce Experience Cloud, Adobe Experience Manager, Sitecore) or an autonomous, self-hosted, vendor-neutral open-source stack (Strapi, Payload, Directus, Grav, Liferay), this list catalogs the leading technologies with verified pricing, free tier limits, company sizes, and active GitHub_Stars.
 
 ---
 
@@ -74,69 +74,69 @@ The global Digital Experience Platform (DXP) and portal software market is estim
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-*Self-hosted digital experience platforms, headless CMS backbones, community portals, and low-code portal builders. Sorted by GitHub star count in descending order.*
+*Self-hosted digital experience platforms, headless CMS backbones, community portals, and low-code portal builders. Sorted by GitHub Stars_Count in descending order.*
 
-1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
+1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
    Leading open-source headless CMS (JavaScript/TypeScript, MIT). Features an intuitive administrative dashboard, customizable REST and GraphQL APIs, dynamic role-based access control (RBAC), and webhooks. Ideal as an API-first content backend for omni-channel portals.
 
-2. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+2. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    Open-source Airtable alternative that transforms any PostgreSQL, MySQL, SQL Server, or SQLite database into a smart spreadsheet portal. Features instant REST/GraphQL APIs, Kanban/Form views, team collaboration, and granular user roles.
 
-3. **[Discourse](https://github.com/discourse/discourse)** [![GitHub stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)  
+3. **[Discourse](https://github.com/discourse/discourse)** [![GitHub_Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)  
    Modern, open-source discussion and community platform (GPL-2.0). Designed for high-trust community hubs, customer support knowledge portals, SSO integrations, badges, and notification workflows.
 
-4. **[Payload](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
+4. **[Payload](https://github.com/payloadcms/payload)** [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
    Open-source Next.js & TypeScript full-code headless CMS and application framework (MIT). Delivers native React components, custom layout fields, deep authentication, localized content, and instant SQLite/MongoDB/Postgres support.
 
-5. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+5. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
    Open-source low-code platform to build internal employee portals, customer support tools, and business dashboards. Features 50+ pre-built UI components, integrations with dozens of databases and SaaS APIs, and granular access policies.
 
-6. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+6. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
    Open-source low-code framework to build admin panels, customer portals, and internal workflows. Connects to PostgreSQL, MongoDB, REST/GraphQL APIs, and supports custom JavaScript for frontend logic.
 
-7. **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+7. **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
    Fast, collaborative team knowledge base and documentation portal built with React and Node.js. Features Markdown editing, real-time sync, permissions, and custom subdomain support.
 
-8. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+8. **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    Open-source data platform and Headless CMS wrapping SQL databases with an intuitive No-Code Data Studio and dynamic REST/GraphQL APIs. Perfect for customer portals, data dashboards, and internal operations.
 
-9. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
+9. **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub_Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
    World's most widely adopted open-source content management system (GPL-2.0). Extensible with thousands of portal, membership, and LMS plugins (BuddyPress, MemberPress, WooCommerce) to power any self-hosted experience.
 
-10. **[Grav](https://github.com/getgrav/grav)** [![GitHub stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
+10. **[Grav](https://github.com/getgrav/grav)** [![GitHub_Stars](https://img.shields.io/github/stars/getgrav/grav?style=social&color=white)](https://github.com/getgrav/grav/stargazers)  
     Modern, fast flat-file CMS powered by PHP, Markdown, Twig, and Symfony (MIT). Requires no database setup, making it ideal for lightweight help centers, documentation portals, and static microsites.
 
-11. **[Joomla](https://github.com/joomla/joomla-cms)** [![GitHub stars](https://img.shields.io/github/joomla/joomla-cms?style=social&color=white)](https://github.com/joomla/joomla-cms/stargazers)  
+11. **[Joomla](https://github.com/joomla/joomla-cms)** [![GitHub_Stars](https://img.shields.io/github/joomla/joomla-cms?style=social&color=white)](https://github.com/joomla/joomla-cms/stargazers)  
     Enterprise-ready open-source CMS (GPL-2.0) with native multilingual support, granular Access Control Lists (ACL), and extensive community extension support for customer and membership portals.
 
-12. **[Drupal](https://github.com/drupal/drupal)** [![GitHub stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
+12. **[Drupal](https://github.com/drupal/drupal)** [![GitHub_Stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
     Enterprise-grade open-source CMS and digital experience framework (GPL-2.0). Excels at complex taxonomies, multi-site management, high-volume government and enterprise portal ecosystems.
 
-13. **[Liferay Portal CE](https://github.com/liferay/liferay-portal)** [![GitHub stars](https://img.shields.io/github/stars/liferay/liferay-portal?style=social&color=white)](https://github.com/liferay/liferay-portal/stargazers)  
+13. **[Liferay Portal CE](https://github.com/liferay/liferay-portal)** [![GitHub_Stars](https://img.shields.io/github/stars/liferay/liferay-portal?style=social&color=white)](https://github.com/liferay/liferay-portal/stargazers)  
     Open-source Community Edition (LGPL-2.1) of the industry-standard Liferay enterprise portal. Delivers modular portlets, content management, user segmentation, workflow automation, and collaboration tools.
 
-14. **[Richie](https://github.com/openfun/richie)** [![GitHub stars](https://img.shields.io/github/stars/openfun/richie?style=social&color=white)](https://github.com/openfun/richie/stargazers)  
+14. **[Richie](https://github.com/openfun/richie)** [![GitHub_Stars](https://img.shields.io/github/stars/openfun/richie?style=social&color=white)](https://github.com/openfun/richie/stargazers)  
     Open-source CMS designed specifically for education and course discovery portals (Python/Django, MIT). Supports rich course catalogs, organization directories, and student profiles.
 
-15. **[SEBLOD](https://github.com/Octopoos/SEBLOD)** [![GitHub stars](https://img.shields.io/github/stars/Octopoos/SEBLOD?style=social&color=white)](https://github.com/Octopoos/SEBLOD/stargazers)  
+15. **[SEBLOD](https://github.com/Octopoos/SEBLOD)** [![GitHub_Stars](https://img.shields.io/github/stars/Octopoos/SEBLOD?style=social&color=white)](https://github.com/Octopoos/SEBLOD/stargazers)  
     Advanced Content Construction Kit (CCK) and application builder for Joomla. Allows developers to design custom relational databases, custom input interfaces, and tailored portal frontends.
 
-16. **[Visually](https://github.com/Git002/Visually)** [![GitHub stars](https://img.shields.io/github/stars/Git002/Visually?style=social&color=white)](https://github.com/Git002/Visually/stargazers)  
+16. **[Visually](https://github.com/Git002/Visually)** [![GitHub_Stars](https://img.shields.io/github/stars/Git002/Visually?style=social&color=white)](https://github.com/Git002/Visually/stargazers)  
     Drag-and-drop website and UI builder that generates clean Svelte code. Allows creators to design responsive web layouts with zero vendor lock-in.
 
-17. **[p3ol/oak](https://github.com/p3ol/oak)** [![GitHub stars](https://img.shields.io/github/stars/p3ol/oak?style=social&color=white)](https://github.com/p3ol/oak/stargazers)  
+17. **[p3ol/oak](https://github.com/p3ol/oak)** [![GitHub_Stars](https://img.shields.io/github/stars/p3ol/oak?style=social&color=white)](https://github.com/p3ol/oak/stargazers)  
     Modern, lightweight, modular page builder and block-based experience designer for self-hosted websites and web portals.
 
-18. **[AntCMS](https://github.com/AntCMS-org/AntCMS)** [![GitHub stars](https://img.shields.io/github/stars/AntCMS-org/AntCMS?style=social&color=white)](https://github.com/AntCMS-org/AntCMS/stargazers)  
+18. **[AntCMS](https://github.com/AntCMS-org/AntCMS)** [![GitHub_Stars](https://img.shields.io/github/stars/AntCMS-org/AntCMS?style=social&color=white)](https://github.com/AntCMS-org/AntCMS/stargazers)  
     Ultra-lightweight flat-file content management system designed for speed, simplicity, and low-resource portal hosting.
 
-19. **[Ibexa Experience](https://github.com/ibexa/experience)** [![GitHub stars](https://img.shields.io/github/stars/ibexa/experience?style=social&color=white)](https://github.com/ibexa/experience/stargazers)  
+19. **[Ibexa Experience](https://github.com/ibexa/experience)** [![GitHub_Stars](https://img.shields.io/github/stars/ibexa/experience?style=social&color=white)](https://github.com/ibexa/experience/stargazers)  
     Modular PHP/Symfony enterprise DXP framework enabling headless content delivery, multi-channel commerce, and digital experience composition.
 
-20. **[Gatewaze](https://github.com/gatewaze/gatewaze)** [![GitHub stars](https://img.shields.io/github/stars/gatewaze/gatewaze?style=social&color=white)](https://github.com/gatewaze/gatewaze/stargazers)  
+20. **[Gatewaze](https://github.com/gatewaze/gatewaze)** [![GitHub_Stars](https://img.shields.io/github/stars/gatewaze/gatewaze?style=social&color=white)](https://github.com/gatewaze/gatewaze/stargazers)  
     Modular open-source community portal platform featuring member management, event schedules, communications, and Helm charts for self-hosted Kubernetes/Supabase deployments.
 
-21. **[sivujetti](https://github.com/sivujetti/sivujetti)** [![GitHub stars](https://img.shields.io/github/stars/sivujetti/sivujetti?style=social&color=white)](https://github.com/sivujetti/sivujetti/stargazers)  
+21. **[sivujetti](https://github.com/sivujetti/sivujetti)** [![GitHub_Stars](https://img.shields.io/github/stars/sivujetti/sivujetti?style=social&color=white)](https://github.com/sivujetti/sivujetti/stargazers)  
     Self-hosted, lightweight website and portal page builder designed to provide full data sovereignty without external SaaS dependencies.
 
 ---
@@ -157,7 +157,7 @@ Contributions are warmly welcome! Help expand and refine this ecosystem director
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-portal`).
-3. 📝 **Add or update an entry** in `README.md` following the existing format (include name, official link, star badge, and clear technical summary).
+3. 📝 **Add or update an entry** in `README.md` following the existing format (include name, official link, Stars_Badge, and clear technical summary).
 4. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 ---
