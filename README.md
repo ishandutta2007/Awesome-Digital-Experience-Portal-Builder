@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,67 +42,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global Digital Experience Platform (DXP) and portal software market is estimated at approximately **$16B–$19B in 2025–2026**, growing at a double-digit CAGR toward over $30B by the early 2030s. The sector exhibits a bifurcated market structure: it is **moderately concentrated** at the top-tier enterprise level—dominated by hyperscale and suite incumbents like Salesforce, Adobe, and Sitecore capturing large recurring contracts—while the broader ecosystem remains **highly fragmented** across composable headless CMS engines, mid-market website/portal builders, and specialized community platforms.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Experience Cloud](https://www.salesforce.com/products/experience-cloud/)**  
-
-  Build branded help centers, communities, and portals connected to CRM data and processes. Features Experience Builder for drag-and-drop deployment, Lightning Bolt templates with industry-specific logic, AI-powered content recommendations via Einstein, and out-of-box Service Cloud integration for 360-degree customer views . Supports Q&A, groups, customer MVPs, and personalized feeds to turn customers into brand ambassadors .
-
-
-
-- **[Sitecore Experience Platform](https://www.sitecore.com/platform/experience-platform)**  
-
-  Market-leading all-in-one DXP for creating standout websites and omnichannel experiences. Features comprehensive marketing tools, holistic customer data view, and machine learning-generated insights. Deployment flexibility: on-premises/private cloud for data sovereignty, or Managed Cloud for scalability and performance . XP includes all XM capabilities plus robust personalization; XM is a lighter CMS with smaller infrastructure footprint .
-
-
-
-- **[Adobe Experience Manager](https://business.adobe.com/products/experience-manager/sites/aem-sites.html)**  
-
-  Enterprise DXP for creating and managing digital experiences. AEM Quick Site Creation enables non-developers to build sites from templates, while front-end developers customize themes without AEM backend knowledge . Edge Delivery Services is now recommended for new projects over traditional AEM site creation .
-
-
-
-- **[Liferay DXP](https://www.liferay.com/)**  
-
-  Enterprise portal solution for building customer portals, partner portals, supplier portals, and internal employee portals. Features CMS, commerce, AI, DAM, low-code tools, and search built-in . Gartner Magic Quadrant Leader for Digital Experience Platforms (2018–2021) and ranked #1 for B2E use cases in 2024 . Trusted by 1,200+ customers including Sumitomo Corporation, Yanmar, and Panasonic Connect .
-
-
-
-- **[Webflow Enterprise](https://webflow.com/enterprise)**  
-
-  Visual development platform for marketing teams to build and scale websites. Features visual development with design systems, native experiments, personalization, SEO/AEO, and localization . Built-in governance, workflows, and permissions enable speed without sacrificing control. 300,000+ brands use Webflow; customers report $6M+ annual savings and reduced time-to-market .
-
-
-
-- **[Bettermode](https://bettermode.com/)**  
-
-  Community platform for customer hubs. Features 52 capabilities across 14 categories: flexible Spaces, member authentication (email, social, SSO), visual Blocks customization, white-label with custom domain, app store integrations, engagement tools (reactions, leaderboards, badges), and advanced search . Used by IBM, ConvertKit, WebinarNinja, Condo Control, and CoachHub .
-
-
-
-- **[WordPress VIP](https://wpvip.com/)**  
-
-  Enterprise SaaS CMS built for B2B technology companies scaling from $50M to $1B ARR. Features Gutenberg block editor, built-in content analytics by Parse.ly, and managed infrastructure . Switch between single stack, headless, or hybrid without rearchitecting. 99.99% uptime during major events; SOC 2 Type I platform and Type II data centers .
-
-
-
-- **[HubSpot Content Hub](https://www.hubspot.com/)**  
-
-  CMS integrated with HubSpot CRM. Free tier includes website pages, blog, landing pages, and drag-and-drop editor. Professional adds smart content, A/B testing, and memberships; Enterprise adds multisites, content approvals, and custom objects .
-
-
-
-- **[Squarespace Enterprise](https://www.squarespace.com/enterprise)**  
-
-  Scalable website solution for brands managing multiple sites. Features global editing across sites, centralized dashboard for permissions and analytics, page drafts for collaborative editing, and team permissions by role .
-
-
-
-- **[Wix Studio](https://www.wix.com/studio)**  
-
-  Platform for agencies, freelancers, and enterprises to create high-end sites at scale. Features responsive AI, grid-based editor, real-time client feedback, version control, Figma plugin, and content mode for client editing without design impact .
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limits | Key Highlights & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Experience Cloud](https://www.salesforce.com/products/experience-cloud/)** | ~$188B MCap / ~$41.5B ARR | $5–$10/member/month (Customer Community) or ~$2–$4/login | 30-day free trial; full Experience Builder access with sample CRM data and sandbox limits | Branded help centers, communities, and portals directly tied into CRM workflows; Einstein AI recommendations; Service Cloud integration. |
+| **[Adobe Experience Manager](https://business.adobe.com/products/experience-manager/sites/aem-sites.html)** | ~$100B MCap / ~$23.8B Rev | Starting ~$30,000–$100,000/year base tier | No public free tier or self-service trial; guided enterprise proof-of-concept (PoC) / sandbox demo via sales | Tier-one enterprise DXP and digital asset management (DAM); Edge Delivery Services; Quick Site Creation templates. |
+| **[HubSpot Content Hub](https://www.hubspot.com/)** | ~$12B MCap / ~$3.4B ARR | $15–$20/seat/month (Starter tier) | Free forever: up to 30 website/landing pages, basic blog posts, shared domain, mandatory HubSpot branding | All-in-one CMS connected to HubSpot CRM; drag-and-drop editor; dynamic smart content, membership portals, and lead capture. |
+| **[WordPress VIP](https://wpvip.com/)** | ~$7.5B Val (Automattic) / ~$500M ARR | ~$2,083/month ($25,000/year billed annually) | 14-day guided sandbox trial available upon sales engagement | Enterprise-grade managed WordPress infrastructure; Parse.ly content analytics; Gutenberg editor; decoupled & headless capabilities. |
+| **[Squarespace Enterprise](https://www.squarespace.com/enterprise)** | ~$7.2B Private Acq / ~$1B+ Rev | $16/month (billed annually) for standard starter site tier | 14-day free trial: private password-protected site (`*.squarespace.com`), search indexing disabled, no live payments | Multi-site centralized dashboard, team role permissions, page drafts, collaborative design workflows, and integrated marketing. |
+| **[Webflow Enterprise](https://webflow.com/enterprise)** | ~$4B Valuation / ~$212M+ ARR | $15/month (Basic site plan, billed annually) | Free forever (Starter): 2 static pages, 1 GB bandwidth, publish to `.webflow.io` staging domain, up to 2 unhosted projects | Visual web design platform with design system governance; localized content; native experiments and enterprise security controls. |
+| **[Wix Studio](https://www.wix.com/studio)** | ~$3.5B MCap / ~$1.99B Rev | $19/month (Basic Studio plan, billed annually) | Free forever: free agency workspace & unlimited staging sites, but live unupgraded sites capped at 500 MB storage, 1 GB bandwidth, Wix subdomain & ads, no payments | Tailored for design agencies and enterprises; responsive AI canvas, grid-based editor, version control, and client mode. |
+| **[Sitecore Experience Platform](https://www.sitecore.com/platform/experience-platform)** | ~$2B+ Val (EQT) / ~$500M ARR | ~$5,000–$6,600/month ($60,000–$80,000/year base XM/XM Cloud) | 30-day developer evaluation license / guided partner sandbox environment | Enterprise composable & all-in-one DXP; advanced personalization engine, customer data platform (CDP), and omni-channel delivery. |
+| **[Liferay DXP](https://www.liferay.com/)** | Bootstrapped / Est. ~$150M–$240M Rev | ~$2,000–$3,300/month ($25,000–$40,000/year base self-hosted) | 30-day DXP Sandbox Cloud Trial (also provides a restricted non-commercial Free Tier activation key; separate open-source LGPL CE version) | Portal platform for customer, partner, supplier, and employee intranets; built-in CMS, DAM, low-code forms, and granular permissions. |
+| **[Bettermode](https://bettermode.com/)** | Venture-backed / Est. ~$3.1M ARR | $149/month (Starter tier, billed annually) | 14-day free trial on Starter plan with up to 5 collaborators and core app access | Community hub & customer portal platform; white-label branding, modular Spaces, SSO authentication, and CRM sync. |
 
 
 
