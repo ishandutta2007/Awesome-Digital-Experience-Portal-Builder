@@ -74,7 +74,7 @@ The global Digital Experience Platform (DXP) and portal software market is estim
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-*Self-hosted digital experience platforms, headless CMS backbones, community portals, and low-code portal builders. Sorted by GitHub Stars_Count in descending order.*
+*Self-hosted digital experience platforms, headless CMS backbones, community portals, and low-code portal builders. Sorted by GitHub_Stars_Count in descending order.*
 
 1. **[Strapi](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
    Leading open-source headless CMS (JavaScript/TypeScript, MIT). Features an intuitive administrative dashboard, customizable REST and GraphQL APIs, dynamic role-based access control (RBAC), and webhooks. Ideal as an API-first content backend for omni-channel portals.
